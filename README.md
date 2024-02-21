@@ -1,4 +1,4 @@
-# Client Homepage Layout
+# Calculator Application
 This repository features a simple React calculator application, developed as part of a graded assessment for the React Basics course provided by Meta. The primary objective is to create a functional calculator.
 
 ## Key Features
