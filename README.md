@@ -9,7 +9,6 @@ A single input field that accepts user input (any number).
 - Subtraction
 - Multiplication
 - Division
-- Total Display:
 ### Math Operations
 Once a user types into the input field, they can update the total by pressing any of the four math operation buttons.
 
